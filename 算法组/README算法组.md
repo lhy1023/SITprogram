@@ -1,6 +1,6 @@
 # 算法组
 
-（刘宏源，张皓天，翟宇）
+（LiuHongyuan，ZhangHaotian，ZhaiYu）
 
 ### 本组负责任务：
 
